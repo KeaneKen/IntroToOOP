@@ -1,4 +1,7 @@
-# Introduction
+## Note
+If you want to run the code, make sure that all of the files are in the same folder, and run PersonDemo.java first
+
+## Introduction
 In this one the assignment is to learn about Constructors, Encapsulation, and Understanding Class Structures
 
 ## Environment Setup
